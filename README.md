@@ -1,2 +1,2 @@
-# powershell-it-toolkit
-PowerShell scripts for Windows Server, DNS, Event Log, Microsoft 365, Power BI, and MSSQL administration. Built for real enterprise environments.
+# PowerShell IT Toolkit
+Practical PowerShell scripts for enterprise IT administration — Windows Server, DNS, Event Logs, Microsoft 365, Power BI reporting, and MSSQL queries.
